@@ -16,3 +16,4 @@ A brief technical description:
   - Programming language: C
   - Software: ROBOTC for LEGO Mindstorm
   - main program: AlgoBFS.c and AlgoDFS.c
+  - solver: adtBFS.c and adtDFS.c
